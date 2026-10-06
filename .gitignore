@@ -40,3 +40,6 @@ docs/
 .logs/
 holosoma_config.yaml
 wandb-metadata.json
+
+# MuJoCo log written into the working directory by run_sim
+MUJOCO_LOG.TXT
